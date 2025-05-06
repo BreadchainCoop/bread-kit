@@ -27,7 +27,7 @@ Instead of 100% of the yield earned being split among the member projects some o
 
 ### Cross Chain Capabilities 
 
-Currencies aren’t locked to just one chain but main contract logic would live on a home chain. This feature is probably the most out of scope. 
+Currencies aren’t locked to just one chain but main contract logic would live on a home chain. This feature is likely the most challenging.
 
 ### Subraph with Substreams
 
