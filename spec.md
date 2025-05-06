@@ -227,11 +227,6 @@ sequenceDiagram
 ```
 ---
 
-## MVP
-
-Thought for a couple of seconds
-
-
 ## MVP Scope (v0.1 “Bake-Starter”)
 
 | ‎                       | Included in MVP                                                                                                                                                                              | Deferred (post-MVP)                                                  |
