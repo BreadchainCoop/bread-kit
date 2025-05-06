@@ -145,12 +145,6 @@ class BoostToken { <<ERC20Votes>> }
 
 ```
 
-
-### Module Snapshot  
-
-Thought for 6 seconds
-
-
 ### Module Snapshot
 
 | Contract / Module                          | Generic Roles & Notes                                                                                                                                                                                                                                                                                                                                                                     |
